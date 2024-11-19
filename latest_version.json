@@ -4,7 +4,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3E2TXY0dWJpdUcxeit1ckVPQlF4U1QyQ1ZWUWRkeHpleWdjUnUyelJEbXJMSlNUTzZtZHNzaFNwMVhkYXBLcThZSmtYS2ZLbDA2U0VmaTlZMDFQVzFMV0IyRnNSZGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxOTkyODI5CWZpbGU6WHBlcnRseS5hcHAudGFyLmd6CmJYQUhqUmpOditqcnFHWFB4eTB4VlBFZDlEWEcrUHNhQmRDenZhTHJDMlBYOVdEMSt4UWQwbmtvc3pMLzAwaWtEQ245aitNZXdieGdWbjdQZ1VOb0FBPT0K",
-      "url": "https://github.com/OverIP-Dev/Xpertly-Updates/releases/download/0.1.0/Xpertly_0.1.0_aarch64.dmg"
+      "url": "https://github.com/OverIP-Dev/Xpertly-Updates/releases/download/0.1.0/Xpertly.app.tar.gz"
     }
   }
 }
