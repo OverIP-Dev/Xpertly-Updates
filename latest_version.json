@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Version 1.0.0",
+  "pub_date": "2024-11-19",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/OverIP-Dev/Xpertly-Updates"
+    }
+  }
+}
