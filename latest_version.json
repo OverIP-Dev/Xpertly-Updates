@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
-  "notes": "Version 1.1.0",
+  "version": "0.1.1",
+  "notes": "Version 0.1.1",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3E2TXY0dWJpdUttTWNiTzBNZG5hdUYzdXN0aXVubXJOajhVQlg0WUx5dFpDaHVscjlpOG5tR0t3bGIzQzF3dGRZUFo3WDFKK3lpWldQR3VRTlJhRnAvei9STmxsVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxOTk0MzYwCWZpbGU6WHBlcnRseS5hcHAudGFyLmd6Cjk4WGVJb3BBTnA2Y3lPU3F4MnNtMk4xQndxMWpaajdETCt3ZVVrYWJvMWhjaHdWcmZ2ZWJMQWN4eDVpMVdDRkhUZGV0RmttNHhNV1dmWVAzbTVjcENBPT0K",
-      "url": "https://github.com/OverIP-Dev/Xpertly-Updates/releases/download/0.1.0/Xpertly.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3E2TXY0dWJpdUhoT0JqaS85L2s5MGdLQUdaeFBnTVZFRmxWNDVQcmFvQXo4VEVUc3lXNkU0Z1ZQdFBnNDBTQWlxM24rQkZkdTYzSkpKRGNuektUV1ZpWmh1dTlPekFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxOTk1NTUwCWZpbGU6WHBlcnRseS5hcHAudGFyLmd6Cnl4TkVDNkRYS0R4RmFpQktUZFFyQnpFTEwrT0pBOEVJWWtLSFdxdEVoVVNqdkNUN09BSWhWVmJnK0dYQ1cyMk94dGIzY1Nyc2tIMThtbnMzT2Nlb0J3PT0K",
+      "url": "https://github.com/OverIP-Dev/Xpertly-Updates/releases/download/0.1.1/Xpertly.app.tar.gz"
     }
   }
 }
